@@ -6,7 +6,7 @@ subtitle: <a href='https://humanecology.wisc.edu/'> University of Wisconsin -- M
 
 profile:
   align: right
-  image: CDM MM cheese colored.jpg
+  image: CDM MM cheese colored.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Nancy Nicholas Hall</p>
