@@ -1,6 +1,6 @@
 ---
 layout: about
-title: <i class="fa-solid fa-house"></i>
+title: about
 permalink: /
 subtitle: <a href='https://humanecology.wisc.edu/'> University of Wisconsin -- Madison School of Human Ecology </a> 
 
