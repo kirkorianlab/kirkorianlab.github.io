@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: @ the <a href='https://humanecology.wisc.edu/'> University of Wisconsin -- Madison School of Human Ecology </a> 
+subtitle: <a href='https://humanecology.wisc.edu/'> University of Wisconsin -- Madison School of Human Ecology </a> 
 
 profile:
   align: right
