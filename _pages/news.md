@@ -1,7 +1,7 @@
 ---
 layout: page
-title: in media
-permalink: /media/
+title: in the media
+permalink: /news/
 ---
 
 {% include news.liquid %}
