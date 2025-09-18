@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'> @ the [University of Wisconsin -- Madison School of Human Ecology](https://humanecology.wisc.edu/) 
 
 profile:
   align: right
@@ -24,8 +24,11 @@ announcements:
 ---
 
 The Cognitive Development and Media Lab is directed by Dr. Heather Kirkorian at the University of Wisconsin -- Madison. We study how children play, learn, and develop in the digital age. For example: 
+
 _How do family stress and wellbeing relate to children's media use?_
+
 _What types of educational media are most effective for preschoolers?_
+
 _What is the impact of background television on play and parent-child interactions?_ 
 
 __The Cognitive Development and Media Lab will _not_ be accepting new graduate students for the 2026-2027 academic year.__
